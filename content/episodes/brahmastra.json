@@ -1,0 +1,405 @@
+{
+  "id": "brahmastra",
+  "title": "The Weapon That Was Never Meant To Be Used",
+  "subtitle": "Cataclysmic Energy, Consecration, and Cosmic Restraint",
+  "season": 1,
+  "episode": 1,
+  "artifact": {
+    "name": "Brahmastra",
+    "domain": "Weapons & Warfare",
+    "iconGlyph": "BrahmicFlameMandala",
+    "visualStatus": "INTERPRETIVE",
+    "visualDisclaimer": "Visual interpretation inspired by textual descriptions; no corresponding historical artifact has been identified."
+  },
+  "sources": [
+    {
+      "id": "SRC-MB-BORI",
+      "title": "The Mahābhārata for the First Time Critically Edited (Vol. 11: Sauptika-parvan)",
+      "type": "primary-text",
+      "author": "Attributed to Vyāsa; ed. by H.D. Velankar",
+      "publisher": "Bhandarkar Oriental Research Institute (BORI), Pune",
+      "year": 1966,
+      "citation": "BORI Critical Edition, Sauptika Parva (Vol. 11)",
+      "scholarlyStanding": "The authoritative critical edition based on collation of 34 manuscripts across Northern and Southern traditions."
+    },
+    {
+      "id": "SRC-MB-GITA",
+      "title": "Mahābhārata (Sanskrit text with Hindi translation)",
+      "type": "primary-text",
+      "author": "Traditional recension",
+      "publisher": "Gita Press, Gorakhpur",
+      "year": 1956,
+      "citation": "Standard Northern Vulgate (Nilakantha recension)",
+      "scholarlyStanding": "Widely studied traditional witness of the Northern textual transmission."
+    },
+    {
+      "id": "SRC-GANGULI",
+      "title": "The Mahabharata of Krishna-Dwaipayana Vyasa Translated into English Prose",
+      "type": "translation",
+      "translator": "Kisari Mohan Ganguli",
+      "publisher": "Bharata Press, Calcutta",
+      "year": 1889,
+      "citation": "Ganguli English Translation, Sauptika Parva, Sections 12-15",
+      "scholarlyStanding": "First complete unabridged English prose translation of the Sanskrit epic."
+    },
+    {
+      "id": "SRC-SUKTHANKAR",
+      "title": "On the Meaning of the Mahabharata",
+      "type": "academic",
+      "author": "Vishnu S. Sukthankar",
+      "publisher": "The Asiatic Society of Bombay",
+      "year": 1957,
+      "citation": "Lectures on epic structure, mythopoetic layers, and ethical-allegorical dimensions of epic warfare",
+      "scholarlyStanding": "Seminal scholarly treatise by the general editor of the BORI Critical Edition."
+    },
+    {
+      "id": "SRC-LAL-HASTINAPUR",
+      "title": "Excavation at Hastinapura and Other Explorations in the Upper Ganga and Sutlej Basins 1950–52",
+      "type": "archaeological",
+      "author": "B. B. Lal",
+      "publication": "Ancient India, Bulletin of the Archaeological Survey of India (Nos. 10 & 11)",
+      "year": 1955,
+      "citation": "Archaeological Survey of India, Hastinapura Excavation Report",
+      "scholarlyStanding": "Foundational stratigraphic excavation establishing Painted Grey Ware (PGW) material culture and Bronze/Iron transition metallurgy."
+    },
+    {
+      "id": "SRC-GLASSTONE",
+      "title": "The Effects of Nuclear Weapons (Third Edition)",
+      "type": "scientific",
+      "author": "Samuel Glasstone and Philip J. Dolan",
+      "publisher": "United States Department of Defense and ERDA",
+      "year": 1977,
+      "citation": "Chapters VII & XII: Thermal Radiation and Biological Effects",
+      "scholarlyStanding": "Authoritative standard reference on thermal output, atmospheric overpressure, and energetic blast physics."
+    },
+    {
+      "id": "SRC-BOSLOUGH",
+      "title": "Atmospheric Airbursts and Impact Energetics",
+      "type": "scientific",
+      "author": "Mark Boslough et al.",
+      "publication": "Planetary and Space Science, Vol. 73",
+      "year": 2012,
+      "citation": "Planetary physics study of cometary bolide detonations and radiant heat signatures",
+      "scholarlyStanding": "Peer-reviewed astrophysical investigation into non-nuclear aerial explosion dynamics."
+    },
+    {
+      "id": "SRC-SCHAMILOGLU-DEW",
+      "title": "High-Power Microwave Sources and Technologies",
+      "type": "scientific",
+      "author": "Robert J. Barker and Edl Schamiloglu",
+      "publisher": "IEEE Press / Wiley-Interscience",
+      "year": 2001,
+      "citation": "Chapters 1-3: Pulsed Power, High Energy Radiative Limits, and Plasma Breakdown",
+      "scholarlyStanding": "Standard reference on theoretical electrical energy densities and atmospheric ionization limits."
+    },
+    {
+      "id": "SRC-BHAG-P",
+      "title": "Śrīmad Bhāgavata Purāṇa",
+      "type": "secondary",
+      "author": "Attributed to Vyāsa",
+      "publisher": "Gita Press, Gorakhpur",
+      "year": 1953,
+      "citation": "Canto 1, Chapter 7, Verse 31",
+      "scholarlyStanding": "Classical Purana containing an independent parallel tradition describing the aftermath of the Kurukshetra weapons."
+    }
+  ],
+  "passages": [
+    {
+      "id": "PAS-BORI-10.12.04",
+      "sourceId": "SRC-MB-BORI",
+      "work": "Mahābhārata",
+      "edition": "BORI Critical Edition",
+      "parva": "Sauptika Parva",
+      "chapter": 12,
+      "verse": "10.12.4",
+      "concordance": "Gita Press 10.12.4; Ganguli Section 12",
+      "originalText": "अस्त्रं ब्रह्मशिरो नाम दहेद्यत्पृथिवीमपि ।",
+      "transliteration": "astraṃ brahmaśiro nāma dahed yat pṛthivīm api |",
+      "translation": "[Drona said to his son:] The weapon named Brahmashira is capable of burning even the entire earth.",
+      "literalReadingNotes": "Literal text describes planetary scope of combustion ('dahed yat pṛthivīm api'); contextual warnings forbid deployment against ordinary mortals.",
+      "validationStatus": "VERIFIED",
+      "provenanceNotes": "Directly attested in BORI Critical Edition Sauptika Parva 10.12.4."
+    },
+    {
+      "id": "PAS-BORI-10.13.18-19",
+      "sourceId": "SRC-MB-BORI",
+      "work": "Mahābhārata",
+      "edition": "BORI Critical Edition",
+      "parva": "Sauptika Parva",
+      "chapter": 13,
+      "verse": "10.13.18-19",
+      "concordance": "Gita Press 10.13.18-19; Ganguli Section 13",
+      "originalText": "स तद् दिव्यमदीनात्मा परमास्त्रमचिन्तयत् ।\nजग्राह च स चैषीकां द्रौणिः सव्येन पाणिना ॥ १८ ॥\nअमृष्यमाणस्ताञ्शूरान्दिव्यायुधधरान्स्थितान् ।\nअपाण्डवायेति रुषा व्यसृजद्दारुणं वचः ॥ १९ ॥",
+      "transliteration": "sa tad divyam adīnātmā paramāstram acintayat |\njagrāha ca sa caiṣīkāṃ drauṇiḥ savyena pāṇinā || 18 ||\namṛṣyamāṇas tān śūrān divyāyudhadharān sthitān |\napāṇḍavāyeti ruṣā vyasṛjad dāruṇaṃ vacaḥ || 19 ||",
+      "translation": "He, resolute in mind, meditated upon that supreme divine weapon; and the son of Drona grasped a stalk of reed grass with his left hand. Unable to endure those heroic warriors standing arrayed with divine weapons, in furious wrath he uttered those dire words: 'For the extermination of the Pandavas!'",
+      "literalReadingNotes": "Mental invocation ('acintayat') accompanied by an organic reed medium ('aiṣīkā') and spoken targeted directive ('apāṇḍavāya').",
+      "validationStatus": "VERIFIED",
+      "provenanceNotes": "Directly attested in BORI Critical Edition Sauptika Parva 10.13.18-19."
+    },
+    {
+      "id": "PAS-BORI-10.14.07-09",
+      "sourceId": "SRC-MB-BORI",
+      "work": "Mahābhārata",
+      "edition": "BORI Critical Edition",
+      "parva": "Sauptika Parva",
+      "chapter": 14,
+      "verse": "10.14.7-9",
+      "concordance": "Gita Press 10.14.8-10; Ganguli Section 14",
+      "originalText": "निर्घाता बहवश्चासन् पेतुरुल्काः सहस्रशः ।\nबभूव च भयं तीव्रं सर्वभूतेषु भारत ॥\nप्रजज्वाल महार्चिष्मद् युगान्तानलसन्निभम् ॥",
+      "transliteration": "nirghātā bahavaś cāsan petur ulkāḥ sahasraśaḥ |\nbabhūva ca bhayaṃ tīvraṃ sarvabhūteṣu bhārata ||\nprajajvāla mahārciṣmad yugāntānala-sannibham ||",
+      "translation": "There were manifold violent atmospheric concussions, and meteors fell by the thousands. Intense dread seized all living creatures, O Bharata. The weapon blazed with colossal tongues of fire, resembling the conflagration at the end of the cosmic age.",
+      "literalReadingNotes": "Describes atmospheric shockwaves ('nirghātā'), aerial meteoric displays ('ulkāḥ'), and fire of cosmic dissolution ('yugāntānala-sannibham').",
+      "validationStatus": "DISPUTED_NUMBERING",
+      "provenanceNotes": "Verified across available textual witnesses; verse boundary offsets by 1 between BORI and Gita Press."
+    },
+    {
+      "id": "PAS-BORI-10.15.23",
+      "sourceId": "SRC-MB-BORI",
+      "work": "Mahābhārata",
+      "edition": "BORI Critical Edition",
+      "parva": "Sauptika Parva",
+      "chapter": 15,
+      "verse": "10.15.23",
+      "concordance": "Gita Press 10.15.23; Ganguli Section 15",
+      "originalText": "अस्त्रं ब्रह्मशिरो यत्र परमास्त्रेण वध्यते ।\nसमा द्वादश पर्जन्यस्तद्राष्ट्रं नाभिवर्षति ॥ २३ ॥",
+      "transliteration": "astraṃ brahmaśiro yatra paramāstreṇa vadhyate |\nsamā dvādaśa parjanyas tad rāṣṭraṃ nābhivarṣati || 23 ||",
+      "translation": "Where the Brahmashira weapon is struck and thwarted by another supreme weapon, for twelve full years the rain-cloud Parjanya does not shower rain upon that entire realm.",
+      "literalReadingNotes": "Textual basis for multi-year ecological drought following weapon neutralization.",
+      "validationStatus": "VERIFIED",
+      "provenanceNotes": "Directly attested in BORI Critical Edition Sauptika Parva 10.15.23."
+    }
+  ],
+  "textualObservations": [
+    {
+      "id": "CLM-BHM-001",
+      "statement": "The Mahabharata describes the Brahmashira as a weapon capable of burning even the entire earth, with explicit injunctions forbidding its use against ordinary human combatants.",
+      "evidenceType": "TEXTUAL",
+      "confidence": "HIGH",
+      "status": "SUPPORTED",
+      "sourceIds": ["SRC-MB-BORI", "SRC-MB-GITA", "SRC-GANGULI"],
+      "passageIds": ["PAS-BORI-10.12.04"],
+      "notes": "Text explicitly couples catastrophic destructive scale with strict ethical prohibitions against non-combatant use.",
+      "validationStatus": "VERIFIED"
+    },
+    {
+      "id": "CLM-BHM-002",
+      "statement": "The weapon was mentally invoked through meditation and invested into an ordinary organic reed stalk, accompanied by a targeted verbal declaration.",
+      "evidenceType": "TEXTUAL",
+      "confidence": "HIGH",
+      "status": "SUPPORTED",
+      "sourceIds": ["SRC-MB-BORI", "SRC-MB-GITA", "SRC-GANGULI"],
+      "passageIds": ["PAS-BORI-10.13.18-19"],
+      "notes": "Records mental intentionality ('acintayat'), organic substrate ('aiṣīkā'), and verbal targeting declaration ('apāṇḍavāya').",
+      "validationStatus": "VERIFIED"
+    },
+    {
+      "id": "CLM-BHM-003",
+      "statement": "The clashing of celestial astras is recorded as generating severe atmospheric shockwaves, thousands of meteors, and intense fire imagery compared to the end of a cosmic age.",
+      "evidenceType": "TEXTUAL",
+      "confidence": "HIGH",
+      "status": "SUPPORTED",
+      "sourceIds": ["SRC-MB-BORI", "SRC-MB-GITA", "SRC-GANGULI"],
+      "passageIds": ["PAS-BORI-10.14.07-09"],
+      "notes": "Records extreme atmospheric concussions, aerial debris, and apocalyptic thermal phenomena.",
+      "validationStatus": "VERIFIED"
+    },
+    {
+      "id": "CLM-BHM-004",
+      "statement": "The text specifies that neutralizing the Brahmashira with another supreme weapon causes a twelve-year regional drought where clouds fail to yield rain.",
+      "evidenceType": "TEXTUAL",
+      "confidence": "HIGH",
+      "status": "SUPPORTED",
+      "sourceIds": ["SRC-MB-BORI", "SRC-MB-GITA", "SRC-GANGULI", "SRC-BHAG-P"],
+      "passageIds": ["PAS-BORI-10.15.23"],
+      "notes": "Records prolonged multi-year ecological desolation and disruption of rain cycles resulting from mutual counter-deployment.",
+      "validationStatus": "VERIFIED"
+    }
+  ],
+  "phenomenology": [
+    {
+      "category": "Activation & Delivery",
+      "attributedProperties": [
+        "Invoked through intense meditative concentration ('acintayat') rather than mechanical firing",
+        "Invested into an organic medium (a blade of reed grass)",
+        "Spoken intentional targeting directive uttered during release"
+      ]
+    },
+    {
+      "category": "Atmospheric & Thermal Effects",
+      "attributedProperties": [
+        "Colossal fire tongues compared to cosmic dissolution ('yugāntānala-sannibham')",
+        "Violent atmospheric concussions ('nirghātā') and falling aerial fire ('ulkāḥ')",
+        "Extreme psychological dread seizing all observers"
+      ]
+    },
+    {
+      "category": "Ecological & Post-Deployment Impact",
+      "attributedProperties": [
+        "Twelve consecutive years of regional drought ('samā dvādaśa parjanyas tad rāṣṭraṃ nābhivarṣati')",
+        "Sterility of the soil and disruption of atmospheric rain cycles",
+        "Threat to the unborn generational lineage of the opposing kingdom"
+      ]
+    }
+  ],
+  "potentialModernAnalogies": [
+    {
+      "id": "ANL-THERMONUCLEAR",
+      "concept": "Thermonuclear Energy Release",
+      "observedSimilarities": "Blinding light obscuring daylight, intense thermal shockwave, and multi-year ecological and biological trauma.",
+      "criticalDifferences": "Triggered by mental mantra invocation; contained in an organic grass medium; no modern radioactive fallout or manufactured nuclear warhead components.",
+      "whatResembles": "Blinding incandescence, devastating acoustic shockwave, and prolonged ecological disruption resembling atmospheric nuclear testing observations.",
+      "whatDoesNotMatch": "The deployment requires no industrial infrastructure, enriched fissile isotopes, or mechanical detonators, originating instead through mental contemplation.",
+      "whatWouldBeRequired": "Enriched fissile material (U-235/Pu-239), sub-microsecond explosive implosion lens, radiation casing, and heavy neutron shielding.",
+      "whatTextDoesNotEstablish": "The Sanskrit text describes solar metaphors, drought, and cosmic grief; it does not mention ionizing radiation, isotopes, or nuclear fission physics.",
+      "evidenceType": "SCIENTIFIC",
+      "confidence": "MODERATE",
+      "status": "ANALOGICAL",
+      "sourceIds": ["SRC-GLASSTONE"],
+      "motivatedByClaimIds": ["CLM-BHM-001", "CLM-BHM-003", "CLM-BHM-004"]
+    },
+    {
+      "id": "ANL-BOLIDE",
+      "concept": "Atmospheric Cosmic Bolide Airburst",
+      "observedSimilarities": "Sudden superheated aerial airburst, scorched blast radius, deafening shockwaves, and atmospheric or environmental disturbances whose magnitude and duration depend on bolide energy and trajectory parameters, without manufactured fissile material.",
+      "criticalDifferences": "Bolides are indiscriminate natural astronomical impacts, not deliberate tactical weapons consecrated by human warriors.",
+      "whatResembles": "Sudden intense flash, falling fiery debris ('ulkāḥ'), concussive atmospheric pressure waves ('nirghātā'), and subsequent climatic disturbances.",
+      "whatDoesNotMatch": "Bolides follow stochastic orbital mechanics and cannot be conjured, targeted, or recalled by human combatants.",
+      "whatWouldBeRequired": "Extraterrestrial body (chondrite or comet fragment) traversing the atmosphere at hypervelocity (15–30 km/s) with terminal explosive fragmentation.",
+      "whatTextDoesNotEstablish": "The narrative attributes deliberate tactical command, mantra invocation, and ethical conflict to human champions rather than a random astronomical event.",
+      "evidenceType": "SCIENTIFIC",
+      "confidence": "MODERATE",
+      "status": "ANALOGICAL",
+      "sourceIds": ["SRC-BOSLOUGH"],
+      "motivatedByClaimIds": ["CLM-BHM-003", "CLM-BHM-004"]
+    },
+    {
+      "id": "ANL-DIRECTED-ENERGY",
+      "concept": "High-Energy Directed Electromagnetic Discharge",
+      "observedSimilarities": "Focused columnar luminous discharge, localized target incineration, and concussive acoustic shockwave.",
+      "criticalDifferences": "Requires massive electrical generation infrastructure and precision optical systems; no cited archaeological evidence in this investigation establishes such technological apparatus in antiquity.",
+      "whatResembles": "Coherent beam propagation, immediate thermal transfer, and precision vectoring along an optical line-of-sight.",
+      "whatDoesNotMatch": "Directed energy weapons require continuous gigawatt power supplies, cooling loops, and specialized transmission optics completely absent from the ancient record.",
+      "whatWouldBeRequired": "Pulsed-power generators, relativistic magnetrons or high-energy lasers, cryogenic cooling, and beam directors.",
+      "whatTextDoesNotEstablish": "No cited archaeological evidence in this investigation establishes power generation, electrical transmission, or electronic circuitry in antiquity.",
+      "evidenceType": "SCIENTIFIC",
+      "confidence": "LOW",
+      "status": "ANALOGICAL",
+      "sourceIds": ["SRC-SCHAMILOGLU-DEW"],
+      "motivatedByClaimIds": ["CLM-BHM-001", "CLM-BHM-003"]
+    }
+  ],
+  "scientificStressTest": {
+    "establishedScientificPrinciples": [
+      "Large energetic atmospheric or climatic disturbances can produce severe environmental consequences; the magnitude, duration, and mechanism depend strongly on the physical event.",
+      "Ionizing radiation severely impairs cellular replication, causing reproductive failure and tissue necrosis."
+    ],
+    "materialAndPhysicalConstraints": [
+      "Acoustic chanting and focused meditation cannot overcome Coulomb barriers required for nuclear fusion or fission.",
+      "An organic reed stalk lacks the molecular lattice and thermal shielding to contain high-energy plasma or radioactive payloads.",
+      "Cited material evidence for second-millennium BCE South Asia reflects Bronze and Iron Age metallurgy; no cited archaeological evidence in this investigation establishes industrial facilities or enriched fissile materials."
+    ],
+    "unresolvedQuestions": [
+      "To what extent did oral poetic tradition (kāvya) amplify natural catastrophic events—such as cometary airbursts or severe monsoonal failures—into the epic's theological climax?"
+    ]
+  },
+  "dialectics": {
+    "interpreter": {
+      "perspective": "The Technological Interpretation",
+      "thesis": "The descriptions of the Brahmastra in the Sauptika Parva display remarkable descriptive resonance with high-energy explosive events—blinding incandescence, multi-year drought, and generational trauma. When analyzed through an engineering framework, these narratives resemble an ancestral or witnessed memory of an energetic catastrophe described through the mythopoetic vocabulary of the Bronze and Iron Ages.",
+      "keyPoints": [
+        "The descriptive focus on lingering multi-year biological and ecological damage differs substantially from standard heroic martial tropes.",
+        "The narrative warnings against deployment on mortals, mutual cancellation dilemmas, and weapon recall commands mirror modern conceptual doctrines of strategic deterrence."
+      ],
+      "supportingClaimIds": ["CLM-BHM-001", "CLM-BHM-002", "CLM-BHM-003", "CLM-BHM-004"]
+    },
+    "skeptic": {
+      "perspective": "The Critical / Historical Examination",
+      "thesis": "Resemblance is not identity. Conflating epic Sanskrit poetry with nuclear physics commits an anachronistic category error. The 'thousand suns' metaphor is a standard Sanskrit trope for divine glory, while prolonged post-war drought can be interpreted historically as reflecting agricultural disruption and famine following total war. No material, physical, or geological evidence cited in this investigation substantiates an ancient technological weapon.",
+      "keyPoints": [
+        "Epic poetry naturally exaggerates weapon effects to highlight the spiritual and moral tragedy of adharma.",
+        "Reading modern nuclear technology into sacred verses overlooks the theological and philosophical purpose of the epic while projecting modern anxieties into antiquity."
+      ],
+      "challengingClaimIds": ["CLM-BHM-001", "CLM-BHM-002", "CLM-BHM-003", "CLM-BHM-004"],
+      "methodologicalNotes": [
+        "Anachronistic category error: mapping 20th-century physics back into Iron Age poetic forms.",
+        "Literary hyperbole: Sanskrit kāvya routinely deploys cosmic destruction motifs for divine weapons.",
+        "Archaeological reality: excavations at Hastinapura and PGW sites reveal only standard bronze/iron material culture."
+      ]
+    }
+  },
+  "realityCheck": {
+    "summary": "The Brahmastra represents the epic's ultimate meditation on total war, devastating force, and ethical restraint. While modern high-energy physics provides compelling analogies for its psychological terror, there is no textual, archaeological, or historical evidence that the weapon existed as a manufactured technological device.",
+    "matrix": [
+      {
+        "id": "RC-TEXT",
+        "category": "What the Text Supports",
+        "finding": "Detailed verses describing cataclysmic incandescence, prolonged environmental desolation, textual restrictions and warnings surrounding use, and cosmic dread.",
+        "explanation": "Primary Sanskrit witnesses in the Sauptika Parva explicitly attest to planetary combustion warnings, organic grass medium, atmospheric concussion, and a twelve-year post-strike drought.",
+        "badge": { "type": "TEXTUAL", "confidence": "HIGH", "status": "SUPPORTED" },
+        "claimIds": ["CLM-BHM-001", "CLM-BHM-002", "CLM-BHM-003", "CLM-BHM-004"],
+        "passageIds": ["PAS-BORI-10.12.04", "PAS-BORI-10.13.18-19", "PAS-BORI-10.14.07-09", "PAS-BORI-10.15.23"],
+        "sourceIds": ["SRC-MB-BORI", "SRC-GANGULI"]
+      },
+      {
+        "id": "RC-HISTORY",
+        "category": "What History Supports",
+        "finding": "Vedic Indian warfare utilized composite bows, bronze/iron points, chariots, and infantry. No anomalous material artifacts or industrial complexes exist.",
+        "explanation": "Stratigraphic archaeological excavations of the Painted Grey Ware (PGW) horizons at Hastinapura confirm standard protohistoric metallurgy and material culture without anomalous industrial technology.",
+        "badge": { "type": "HISTORICAL", "confidence": "HIGH", "status": "SUPPORTED" },
+        "sourceIds": ["SRC-LAL-HASTINAPUR", "SRC-SUKTHANKAR"]
+      },
+      {
+        "id": "RC-SCIENCE",
+        "category": "What Science Supports",
+        "finding": "The thermal and environmental disturbances described are physically consistent with high-energy radiant atmospheric events.",
+        "explanation": "Atmospheric physics and blast telemetry confirm that rapid megaton-scale atmospheric airbursts produce severe thermal radiation, concussive pressure waves, and multi-year ecological disruptions.",
+        "badge": { "type": "SCIENTIFIC", "confidence": "HIGH", "status": "SUPPORTED" },
+        "sourceIds": ["SRC-GLASSTONE", "SRC-BOSLOUGH"]
+      },
+      {
+        "id": "RC-ANALOGY",
+        "category": "What is Analogy",
+        "finding": "Comparing the Brahmastra to thermonuclear weapons, bolides, or directed energy is a conceptual tool to comprehend the narrative scale.",
+        "explanation": "Modern physical analogies serve as heuristic conceptual comparisons to understand the destructive scale envisioned in ancient literature, not as proof of historical equivalence.",
+        "badge": { "type": "SCIENTIFIC", "confidence": "MODERATE", "status": "ANALOGICAL" },
+        "claimIds": ["CLM-BHM-003", "CLM-BHM-004"],
+        "sourceIds": ["SRC-GLASSTONE", "SRC-BOSLOUGH", "SRC-SCHAMILOGLU-DEW"]
+      },
+      {
+        "id": "RC-SPECULATION",
+        "category": "What is Speculation",
+        "finding": "Hypothesizing that mantras were neural-acoustic biometric triggers or that the weapon used engineered antimatter/fusion payloads.",
+        "explanation": "Acoustic chanting and meditation cannot overcome Coulomb barriers required for nuclear reactions, and organic grass reeds lack the material lattice to contain high-energy plasma without artificial containment physics unknown to science.",
+        "badge": { "type": "SPECULATIVE", "confidence": "LOW", "status": "HYPOTHETICAL" }
+      },
+      {
+        "id": "RC-UNKNOWN",
+        "category": "What Remains Unknown",
+        "finding": "The exact origin of the catastrophic motif: whether inspired by an ancient natural cosmic airburst, devastating regional wildfires, or pure philosophical allegory.",
+        "explanation": "Whether epic poets witnessed a rare cometary airburst, memorialized profound societal trauma following agricultural failure, or crafted an apocalyptic literary masterpiece remains unresolved by existing historical evidence.",
+        "badge": { "type": "HISTORICAL", "confidence": "UNKNOWN", "status": "CONTESTED" },
+        "sourceIds": ["SRC-SUKTHANKAR", "SRC-BOSLOUGH"]
+      }
+    ]
+  },
+  "whatIfSandbox": {
+    "disclaimer": "SPECULATIVE ENGINEERING MODEL — For exploration purposes only; not a historical claim.",
+    "energyOptions": [
+      { "id": "chem", "label": "Chemical High-Explosive", "category": "Conventional Physics" },
+      { "id": "nucl", "label": "Nuclear Fission / Fusion", "category": "Modern Physics" },
+      { "id": "em", "label": "Electromagnetic / Directed Plasma", "category": "Modern Physics" },
+      { "id": "exotic", "label": "Speculative Exotic Mechanism (Antimatter / Vacuum)", "category": "Speculative Physics" },
+      { "id": "unknown", "label": "Unknown Physical Phenomenon", "category": "Theoretical" }
+    ],
+    "deliveryOptions": [
+      { "id": "arrow", "label": "Ballistic Arrow Vector" },
+      { "id": "guided", "label": "Autonomous Guided Projectile" },
+      { "id": "atmospheric", "label": "Atmospheric Ionization Field" }
+    ],
+    "yieldOptions": [
+      { "id": "tactical", "label": "Tactical (1-10 Kilotons Equivalent)" },
+      { "id": "strategic", "label": "Strategic (Megaton Equivalent)" },
+      { "id": "planetary", "label": "Planetary (Civilization-Threatening)" }
+    ]
+  }
+}
